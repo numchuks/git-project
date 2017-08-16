@@ -1,1 +1,2 @@
-var name = "Bob";
+var name = "Steve";
+var favoritePlaces = ["hawaii"]
